@@ -1,0 +1,54 @@
+/* header */
+@media screen and (max-width:992px){
+    .navbar-nav a{
+        border-bottom: 1px solid #555;
+        
+      }
+    
+}
+/* header */
+@media screen and (max-width:992px){
+  .included_gravity .main_box{
+    padding: 0 0;
+  
+  }
+  
+}
+@media screen and (max-width:575px){
+  .included_gravity .main_box{
+    padding: 0 50px;
+  
+  }
+  /* .gravity_world h1{
+    font-size: 20px !important;
+    
+  } */
+  
+}
+@media screen and (max-width:400px){
+   .main_box{
+    padding: 0 20px;
+
+  
+  }
+  .header_bg{
+    padding: 0 20px !important;
+
+  
+  }
+  /* .slider_img{
+  height: 140vh!important;
+
+  } */
+  
+  
+}
+@media screen and (max-width:600px){
+  .header_bg{
+    padding: 0 0 !important;
+
+  
+  }
+  
+}
+                            

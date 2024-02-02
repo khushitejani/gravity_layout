@@ -1,0 +1,214 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.spacer{
+  padding: 75px 105px;
+}
+body{
+  overflow-x: hidden;
+}
+.slider_txt{
+ 
+
+margin: auto 0;
+  text-align: center;
+ 
+}
+.shadow{
+  box-shadow: 0 3px 10px rgba(0, 0, 0, .3);
+
+}
+.header_bg{
+  background-color: black;
+  color: white!important;
+  padding: 5px 180px!important;
+}
+.navbar-nav a{
+  color: rgba(238, 238, 238, 0.8);
+  font-size: 15px;
+ 
+
+}
+
+.navbar-toggler{
+  background-color: white!important;
+}
+.Nav.Link{
+  border-bottom: 1px solid #555;
+  width: 100%;
+}
+.slider_txt p{
+  width: 70%;
+  margin:0 auto;
+}
+.slider_txt span{
+  width: 70%;
+  margin:0 auto;
+}
+.slider_img{
+  /* position: relative; */
+  background-image:linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6)), url(./image/asset\ 30.jpeg);
+  height: calc(90vh);
+  object-fit: cover;
+ background-size: cover
+}
+.slider_img Button{
+  padding: 13px 20px;
+  margin: 10px;
+  background-color: black;
+}
+/* gravity world */
+
+.gravity_world h1{
+  font-size: 60px;
+  
+}
+.main_title{
+  font-size: 60px;
+  font-weight: bolder;
+  text-align: center;
+  
+}
+.sub_title{
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.6);
+  text-align: center;
+}
+/* 350pages */
+.pages350 p{
+  width: 72%;
+  margin: 0 auto;
+
+}
+
+.img_box{
+  text-align: center;
+padding: 15px; 
+}
+.shadow img{
+  width: 15%;
+  margin-top: 5%;
+}
+.shadow>h4{
+  margin-top: 5%;
+  padding-bottom: 5%;
+  font-size: 15px;
+}
+.spacer1{
+  padding: 75px 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+}
+.included_gravity .shadow img{
+  height: 10% !important;
+}
+.main_box{
+  padding: 0 100px;
+
+}
+
+
+
+.included_gravity p{
+  width: 75%;
+  margin: 0 auto;
+}
+.img_box i{
+  font-size: 40px;
+
+}
+.elements1000 p{
+  width:50%;
+  margin: 0 auto;
+
+ 
+}
+
+/* footer */
+footer{
+  background-color: rgba(0, 0, 0, 0.9) !important;
+}
+.footerlogo{
+  padding-top: 50px;
+}
+.f_logo{
+  padding-bottom: 30px;
+}
+.footer_icon i{
+  color: #555;
+  background-color: #150c0c;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  margin: 15px;
+}
+.footer_icon p{
+  color: #555;
+}
+.footer_icon {
+  border-bottom: 1px solid #555;
+
+}
+.footer_icon:nth-child(2){
+  padding-top: 10px;
+
+}
+.footer_icon div{
+  width: 130px;
+}
+.footer_icon P{
+  font-size: 10px;
+}
+footer h1{
+  font-size: 15px;
+  color: white;
+  font-weight: bolder;
+  padding: 40px 0 30px 0;
+  border-bottom: 1px solid #555;
+}
+.footerlogo{
+  color: #555;
+}
+.footer_txt div{
+  font-size: 15px;
+  color: #555;
+  padding-top: 10px;
+}
+.footer_txt p{
+  font-size: 10px;color: #555;
+  padding-top: 10px;
+}
+.footer_txt{
+  border-bottom: 1px solid #555;
+}
+.footer_txt i{
+  color: #555;
+  /* padding-bottom: 10px; */
+}
+.footer_text div{
+  padding-bottom: 15px;
+}
+/* =========Landing pages===== */
+.landings{
+  background-color:rgb(218,218,217);
+  padding:50px 0px 50px 200px;
+  text-shadow: 0  0 2px rgba(129, 117, 117, 0.3);
+
+}
+   a{
+  font-size: 20px;
+  text-decoration: none;
+  text-shadow: 0  0 2px rgba(129, 117, 117, 0.3);
+
+}
+.landings p{
+  font-size: 20px;
+  text-shadow: 0  0 2px rgba(129, 117, 117, 0.3);
+  
+}
+.landing-icon{
+  text-shadow: 0  0 2px rgba(129, 117, 117, 0.3);
+
+  font-size: 15px;
+}
+/* ===============***************=========== */
